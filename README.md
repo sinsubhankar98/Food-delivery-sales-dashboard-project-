@@ -1,7 +1,6 @@
 # Restaurant Performance Analytics Dashboard:-[Restaurant Performance Analytics Dashboard_Report.zip](https://github.com/user-attachments/files/28695469/Restaurant.Performance.Analytics.Dashboard_Report.zip)
 -
 Developed an interactive Power BI dashboard to analyze end-to-end food delivery business performance. Built data models and DAX measures to track key KPIs . Performed data transformation and modeling to enable city-wise revenue analysis, restaurant performance evaluation, and order status breakdown . 
-# 📊 Retail Sales Analysis Dashboard (Power BI)
 
 ## 📌 Overview
 This project is a Power BI dashboard built to analyze Food delivery sales performance, revenue trends, and business KPIs.
